@@ -1,0 +1,18 @@
+{
+  "name": "github",
+  "main": "github.js",
+  "version": "0.10.3",
+  "homepage": "https://github.com/ainoya/github",
+  "authors": [
+    "Sergey Klimov <sergey.v.klimov@gmail.com> (http://darvin.github.com/)"
+  ],
+  "description": "A higher-level wrapper around the Github API.",
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

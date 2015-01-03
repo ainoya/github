@@ -59,7 +59,7 @@
           }
         };
       }
-      xhr.setRequestHeader('Accept','application/vnd.github.v3.raw+json');
+      xhr.setRequestHeader('Accept','application/vnd.github.v3+json');
       xhr.setRequestHeader('Content-Type','application/json;charset=UTF-8');
       if ((options.token) || (options.username && options.password)) {
         var authorization = options.token ? 'token ' + options.token : 'Basic ' + btoa(options.username + ':' + options.password);
