@@ -1,6 +1,6 @@
 {
-  "name": "github",
-  "main": "github.js",
+  "name": "github-api",
+  "main": "./github.js",
   "version": "0.10.3",
   "homepage": "https://github.com/ainoya/github",
   "authors": [
